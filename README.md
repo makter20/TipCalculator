@@ -19,7 +19,7 @@ The following functionalities are completed:
 
 Here's a walkthrough of implemented user stories:
 
-http://g.recordit.co/Xni3AwdoNJ.gif
+<img src='http://g.recordit.co/Xni3AwdoNJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [recordit]
 
